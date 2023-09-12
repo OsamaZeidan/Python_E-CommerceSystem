@@ -1,0 +1,2 @@
+666666;Milk;DRINK;20;1212;Company;0;0;0/0/0
+555555;Strawberry Juice;DRINK;20;1146;Company;1;50;5/3/2024
